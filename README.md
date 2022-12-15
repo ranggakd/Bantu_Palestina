@@ -5,6 +5,9 @@ __Bantu Palestina (Help Palestine) 🇵🇸__: repository bahasa Indonesia 🇮�
 ## List
 
 - [Qudwah Indonesia](#qudwah-indonesia)
+- [Nusantara Palestina Center](#nusantara-palestina-center)
+
+[☝ kembali ke atas](#bantu_palestina-help-palestine)
 
 <details>
 <summary>
@@ -25,3 +28,25 @@ __Bantu Palestina (Help Palestine) 🇵🇸__: repository bahasa Indonesia 🇮�
 
 </details>
 
+[☝ kembali ke atas](#bantu_palestina-help-palestine)
+
+<details>
+<summary>
+
+### Nusantara Palestina Center
+</summary>
+
+| Poin | Keterangan | Sumber |
+| ---: | :--- | :---: |
+| Berdiri Sejak ⌛ | 2018 | [Nusantara Palestina Center](https://npc.id/sejarah-npc/) |
+| Legalitas ⚖ | Yayasan Nusantara Palestina Center (Nomor AHU-0003539.AH.01.04 Tahun 2018) | [Nusantara Palestina Center](https://npc.id/legalitas/) - [AHU](https://ahu.go.id/pencarian/profil-yayasan/?tipe=yayasan&nama=nusantara+palestina+center&g-recaptcha-response=03AD1IbLDWKERA5VKLPB7innJHSBeP8Z8G6RU_BJCBNMOEyqXwAmrZkt3Uw6NAFUkrX0BVIAZQ676wHGS-7sC_ykGX3Ta5r-GHhOMEg5wDEDWKT2nIAozWzgAcgQqJjcSvimXFgm8ybRnuEcjP__sr9_Hlz9pXKStQWNxTY9Hvp0e2M672pgLj034T6PlYRllsF_TppSnjk2FehcF2bapzTym6SJl8BHW7O1bhIwpKq4LzknjF61hSxJixyJ99AdqLwiPO-AJNPOdOQzgB1oBMKbzziczbwIZI5aiEP33bicG5mL5uz02rKId6WTorREX67daxEFaGvP3zTY6IqkzpqliiWmELZS99chjc_Mxy95NmEB-At7nc-AibMmjofuGCsxZ3ZmQ78GBaVMRfwVl7Wk-n5SEHXmnGWxj25p1ELmw3FuNIzp7XnCdrOGKOfEMteMk4bQ4IvAWi-3RMiufeoyHQ1NNidAibItb6bOMb4lGg2ANux4QRQbM) |
+| Karyawan 👨‍💻 | Head Of Department Media, Accountant, Media And Communications Manager, dll | [LinkedIn](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2274697430%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=ne) |
+| Lokasi 📍 | Jakarta Timur, DKI Jakarta | [Nusantara Palestina Center](https://npc.id/) - [Google Maps](https://www.google.com/maps/place/Nusantara+Palestina+Center/@-6.3155893,106.8901251,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f36e1ff8ca8d:0xb9cb12e0f74a1e97!8m2!3d-6.3155893!4d106.8923138) |
+| Website Donasi 💻 | Nusantara Palestina Center - Galang Dana | [Nusantara Palestina Center](https://donasi.npc.id/) |
+| WhatsApp 📲 | +628119944496 | [Nusantara Palestina Center](https://npc.id/kontak/) - [Chat WhatsApp](https://wa.me/628119944496)
+| Laporan Keuangan 💰 | Penyaluran Archives | [Nusantara Palestina Center](https://npc.id/kategori/penyaluran/) |
+| Metode Pembayaran 📨 | ![Gopay](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-gopay.svg) ![LinkAja](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-linkaja.svg) ![ShopeePay](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-shopeepay.svg) ![OVO](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-ovo.svg) ![Dana](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-dana.svg) ![QRIS](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/insanbumimandiri/public/campaign/fXTbhyMGJbfQ.png) ![BCA](/assets/bca.svg) | [Nusantara Palestina Center](https://donasi.npc.id/donate-now)
+
+</details>
+
+[☝ kembali ke atas](#bantu_palestina-help-palestine)
