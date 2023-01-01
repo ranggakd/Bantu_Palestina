@@ -45,7 +45,7 @@ __Bantu Palestina (Help Palestine) 🇵🇸__: repository bahasa Indonesia 🇮�
 | Website Donasi 💻 | Nusantara Palestina Center - Galang Dana | [Nusantara Palestina Center](https://donasi.npc.id/) |
 | WhatsApp 📲 | +628119944496 | [Nusantara Palestina Center](https://npc.id/kontak/) - [Chat WhatsApp](https://wa.me/628119944496)
 | Laporan Keuangan 💰 | Penyaluran Archives | [Nusantara Palestina Center](https://npc.id/kategori/penyaluran/) |
-| Metode Pembayaran 📨 | ![Gopay](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-gopay.svg) ![LinkAja](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-linkaja.svg) ![ShopeePay](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-shopeepay.svg) ![OVO](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-ovo.svg) ![Dana](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-dana.svg) ![QRIS](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/insanbumimandiri/public/campaign/fXTbhyMGJbfQ.png) ![BCA](/assets/bca.svg) | [Nusantara Palestina Center](https://donasi.npc.id/donate-now)
+| Metode Pembayaran 📨 | ![Gopay](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-gopay.svg) ![LinkAja](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-linkaja.svg) ![ShopeePay](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-shopeepay.svg) ![OVO](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-ovo.svg) ![Dana](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-dana.svg) ![QRIS](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/insanbumimandiri/public/campaign/fXTbhyMGJbfQ.png) ![BCA](/assets/bcaa.svg) | [Nusantara Palestina Center](https://donasi.npc.id/donate-now)
 
 </details>
 
