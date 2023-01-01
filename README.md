@@ -24,7 +24,7 @@ __Bantu Palestina (Help Palestine) 🇵🇸__: repository bahasa Indonesia 🇮�
 | Website Donasi 💻 | Qudwah Indonesia - Palestina | [Qudwah Indonesia](https://qudwahindonesia.id/campaign?categories=palestina&categories_txt=Palestina&modal_filter=0&percent=0&sort=lastest) |
 | WhatsApp 📲 | +6281534048676 | [Qudwah Indonesia](https://qudwahindonesia.id) - [Chat WhatsApp](https://wa.me/6281534048676)
 | Laporan Keuangan 💰 | Tab `Berita Terbaru` dan `Blog` | [Qudwah Indonesia](https://qudwahindonesia.id/news) |
-| Metode Pembayaran 📨 | ![Gopay](/assets/gopay.svg) ![LinkAja](/assets/linkaja.svg) ![ShopeePay](/assets/shopeepay.svg) ![OVO](/assets/ovo.svg) ![Dana](/assets/dana.svg) ![QRIS](/assets/qris.png) | [Qudwah Indonesia](https://qudwahindonesia.id/campaign/berbagi-air/donate)
+| Metode Pembayaran 📨 | ![Gopay](/assets/gopay.svg) ![LinkAja](/assets/linkaja.svg) ![ShopeePay](/assets/shopeepay.svg) ![OVO](/assets/ovo.svg) ![Dana](/assets/dana.svg) ![QRIS](/assets/qris.svg) | [Qudwah Indonesia](https://qudwahindonesia.id/campaign/berbagi-air/donate)
 
 </details>
 
