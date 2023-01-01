@@ -24,7 +24,7 @@ __Bantu Palestina (Help Palestine) 🇵🇸__: repository bahasa Indonesia 🇮�
 | Website Donasi 💻 | Qudwah Indonesia - Palestina | [Qudwah Indonesia](https://qudwahindonesia.id/campaign?categories=palestina&categories_txt=Palestina&modal_filter=0&percent=0&sort=lastest) |
 | WhatsApp 📲 | +6281534048676 | [Qudwah Indonesia](https://qudwahindonesia.id) - [Chat WhatsApp](https://wa.me/6281534048676)
 | Laporan Keuangan 💰 | Tab `Berita Terbaru` dan `Blog` | [Qudwah Indonesia](https://qudwahindonesia.id/news) |
-| Metode Pembayaran 📨 | ![Gopay](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-gopay.svg) ![LinkAja](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-linkaja.svg) ![ShopeePay](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-shopeepay.svg) ![OVO](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-ovo.svg) ![Dana](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/adaide/asset/logo-dana.svg) ![QRIS](https://5p4c3.sgp1.cdn.digitaloceanspaces.com/insanbumimandiri/public/campaign/fXTbhyMGJbfQ.png) | [Qudwah Indonesia](https://qudwahindonesia.id/campaign/berbagi-air/donate)
+| Metode Pembayaran 📨 | ![Gopay](/assets/gopay.svg) ![LinkAja](/assets/linkaja.svg) ![ShopeePay](/assets/shopeepay.svg) ![OVO](/assets/ovo.svg) ![Dana](/assets/dana.svg) ![QRIS](/assets/qris.png) | [Qudwah Indonesia](https://qudwahindonesia.id/campaign/berbagi-air/donate)
 
 </details>
 
@@ -45,7 +45,7 @@ __Bantu Palestina (Help Palestine) 🇵🇸__: repository bahasa Indonesia 🇮�
 | Website Donasi 💻 | Nusantara Palestina Center - Galang Dana | [Nusantara Palestina Center](https://donasi.npc.id/) |
 | WhatsApp 📲 | +628119944496 | [Nusantara Palestina Center](https://npc.id/kontak/) - [Chat WhatsApp](https://wa.me/628119944496)
 | Laporan Keuangan 💰 | Penyaluran Archives | [Nusantara Palestina Center](https://npc.id/kategori/penyaluran/) |
-| Metode Pembayaran 📨 | ![Gopay](/assets/gopay.svg) ![LinkAja](/assets/linkaja.svg) ![ShopeePay](/assets/shopeepay.svg) ![OVO](/assets/ovo.svg) ![Dana](/assets/dana.svg) ![QRIS](/assets/qris.png) ![BCA](/assets/bcaa.svg) | [Nusantara Palestina Center](https://donasi.npc.id/donate-now)
+| Metode Pembayaran 📨 | ![Gopay](/assets/gopay.svg) ![LinkAja](/assets/linkaja.svg) ![ShopeePay](/assets/shopeepay.svg) ![OVO](/assets/ovo.svg) ![Dana](/assets/dana.svg) ![QRIS](/assets/qris.svg) ![Flip](/assets/flip.svg) ![ATM Bersama](/assets/atm-bersama.svg) ![ATM Prima](/assets/atm-prima.svg) ![ATM Alto](/assets/atm-alto.svg) ![Jenius](/assets/jenius.svg) ![BCA](/assets/bca.svg) ![Mandiri](/assets/mandiri.svg) ![BNI](/assets/bni.svg) ![BRI](/assets/bri.svg) ![BSI](/assets/bsi.svg) ![BJB](/assets/bjb.svg) ![Permata](/assets/permata.svg) ![Bank Lain](/assets/bank-lain.svg) ![Alfamart](/assets/alfamart.svg) ![Indomaret](/assets/indomaret.svg) | [Nusantara Palestina Center](https://donasi.npc.id/donate-now)/
 
 </details>
 
