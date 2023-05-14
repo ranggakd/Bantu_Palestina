@@ -26,6 +26,10 @@ __Bantu Palestina (Help Palestine) 🇵🇸__: repository bahasa Indonesia 🇮�
 | Laporan Keuangan 💰 | Tab `Berita Terbaru` dan `Blog` | [Qudwah Indonesia](https://qudwahindonesia.id/news) |
 | Metode Pembayaran 📨 | ![Gopay](/assets/gopay.svg) ![LinkAja](/assets/linkaja.svg) ![ShopeePay](/assets/shopeepay.svg) ![OVO](/assets/ovo.svg) ![Dana](/assets/dana.svg) ![QRIS](/assets/qris.svg) | [Qudwah Indonesia](https://qudwahindonesia.id/campaign/berbagi-air/donate)
 
+![website qi 1](/assets/qudwahindonesia_1.jpg)
+
+![website qi 2](/assets/qudwahindonesia_2.jpg)
+
 </details>
 
 [☝ kembali ke atas](#bantu_palestina-help-palestine)
@@ -46,6 +50,10 @@ __Bantu Palestina (Help Palestine) 🇵🇸__: repository bahasa Indonesia 🇮�
 | WhatsApp 📲 | +628119944496 | [Nusantara Palestina Center](https://npc.id/kontak/) - [Chat WhatsApp](https://wa.me/628119944496)
 | Laporan Keuangan 💰 | Penyaluran Archives | [Nusantara Palestina Center](https://npc.id/kategori/penyaluran/) |
 | Metode Pembayaran 📨 | ![Gopay](/assets/gopay.svg) ![LinkAja](/assets/linkaja.svg) ![ShopeePay](/assets/shopeepay.svg) ![OVO](/assets/ovo.svg) ![Dana](/assets/dana.svg) ![QRIS](/assets/qris.svg) ![Flip](/assets/flip.svg) ![ATM Bersama](/assets/atm-bersama.svg) ![ATM Prima](/assets/atm-prima.svg) ![ATM Alto](/assets/atm-alto.svg) ![Jenius](/assets/jenius.svg) ![BCA](/assets/bca.svg) ![Mandiri](/assets/mandiri.svg) ![BNI](/assets/bni.svg) ![BRI](/assets/bri.svg) ![BSI](/assets/bsi.svg) ![BJB](/assets/bjb.svg) ![Permata](/assets/permata.svg) ![Bank Lain](/assets/bank-lain.svg) ![Alfamart](/assets/alfamart.svg) ![Indomaret](/assets/indomaret.svg) | [Nusantara Palestina Center](https://donasi.npc.id/donate-now)/
+
+![website npc 1](/assets/npc_1.jpg)
+
+![website npc 2](/assets/npc_2.jpg)
 
 </details>
 
