@@ -2,10 +2,17 @@
 
 __Bantu Palestina (Help Palestine) 🇵🇸__: repository bahasa Indonesia 🇮🇩 berisi website bantuan kemanusiaan terhadap warga Palestina
 
+## Bantu Kontribusi
+
+Untuk rekan-rekan yang ingin membantu kontribusi dengan menambahkan lembaga terpercaya dari Indonesia, silahkan merujuk petunjuk [kontribusi berikut ini](./CONTRIBUTING.md). Selebihnya bisa membantu dengan menyebarkan repositori ini ke teman-teman programmer / developer Indonesia.
+
 ## List
 
-- [Qudwah Indonesia](#qudwah-indonesia)
-- [Nusantara Palestina Center](#nusantara-palestina-center)
+- [Bantu\_Palestina (Help Palestine)](#bantu_palestina-help-palestine)
+  - [Bantu Kontribusi](#bantu-kontribusi)
+  - [List](#list)
+    - [Qudwah Indonesia](#qudwah-indonesia)
+    - [Nusantara Palestina Center](#nusantara-palestina-center)
 
 [☝ kembali ke atas](#bantu_palestina-help-palestine)
 
