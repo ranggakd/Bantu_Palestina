@@ -16,7 +16,7 @@ Untuk rekan-rekan yang ingin membantu kontribusi dengan menambahkan lembaga terp
 
 [☝ kembali ke atas](#bantu_palestina-help-palestine)
 
-<details>
+<details open>
 <summary>
 
 ### Qudwah Indonesia
@@ -41,7 +41,7 @@ Untuk rekan-rekan yang ingin membantu kontribusi dengan menambahkan lembaga terp
 
 [☝ kembali ke atas](#bantu_palestina-help-palestine)
 
-<details>
+<details open>
 <summary>
 
 ### Nusantara Palestina Center
